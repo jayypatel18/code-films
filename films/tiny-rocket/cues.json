@@ -1,0 +1,159 @@
+{
+ "fps": 24,
+ "duration": 65.0,
+ "shots": {
+  "s1_knot": 0.0,
+  "s2_hill": 5.0,
+  "s3_night": 12.0,
+  "s4_first_light": 19.0,
+  "s4b_cockpit": 22.5,
+  "s5a_match": 25.0,
+  "s5b_fuse": 26.6,
+  "s5c_eyes": 28.6,
+  "s6a_ignition": 31.0,
+  "s6b_low_angle": 33.0,
+  "s7a_clouds": 37.0,
+  "s7b_face": 40.5,
+  "s8_star": 44.0,
+  "s9_home": 52.0,
+  "title": 60.0,
+  "fade_paper": 63.5,
+  "black": 64.5,
+  "end": 65.0
+ },
+ "knot_tug": 0.95,
+ "ear_flick": [
+  1.8,
+  2.9,
+  8.0,
+  11.2,
+  15.0,
+  17.6,
+  19.2
+ ],
+ "tail_swish": [
+  2.2,
+  7.2,
+  11.0
+ ],
+ "blink": [
+  3.2,
+  4.35,
+  7.4,
+  10.9,
+  22.1,
+  23.0,
+  24.0,
+  41.5,
+  57.9,
+  59.9
+ ],
+ "string_release": 3.8,
+ "paw_steps": [
+  5.33,
+  5.67,
+  6.0,
+  6.33,
+  6.67,
+  9.2,
+  9.53,
+  9.87,
+  20.5,
+  20.8,
+  21.1,
+  57.0
+ ],
+ "village_lights": [
+  5.2,
+  5.7,
+  6.2,
+  6.7,
+  7.2,
+  7.7,
+  8.2,
+  8.7,
+  9.2,
+  9.7,
+  10.2
+ ],
+ "sleep_breath": 12.0,
+ "shooting_star": 15.6,
+ "fireflies": [
+  12.0,
+  19.0
+ ],
+ "wake": 19.6,
+ "yawn": 19.8,
+ "climb_jump": 21.4,
+ "land_in_cockpit": 21.8,
+ "goggles_down": 23.3,
+ "swallow": 23.85,
+ "nod": 24.45,
+ "match_strike": 25.42,
+ "fuse_start": 26.6,
+ "fuse_end": 28.5,
+ "eyes_squeeze": 28.6,
+ "stillness_start": 29.4,
+ "stillness_end": 30.5,
+ "one_eye_open": 30.6,
+ "ignition": 31.0,
+ "liftoff": 32.2,
+ "birds": 33.6,
+ "cloud_layers": [
+  37.0,
+  38.3,
+  39.6
+ ],
+ "fins_rattle": [
+  37.0,
+  40.5
+ ],
+ "break_into_open_sky": 42.6,
+ "wonder": 42.7,
+ "star_ignites": 46.0,
+ "star_arc_peak": 48.5,
+ "parachute_open": 52.0,
+ "touchdown": 55.0,
+ "climb_out": 55.8,
+ "look_up_fading_star": 57.3,
+ "brush_stroke": 58.9,
+ "look_at_us": 59.3,
+ "tail_curl": [
+  59.3,
+  59.9
+ ],
+ "title_brush": [
+  60.0,
+  61.5
+ ],
+ "hanko": 61.6,
+ "model_name": [
+  62.3,
+  63.1
+ ],
+ "cold_open": [
+  0.85,
+  2.6
+ ],
+ "turn_to_map": 9.0,
+ "look_at_map": 10.4,
+ "shooting_star_night": 15.6,
+ "stand": 20.2,
+ "crouch": 21.1,
+ "shudder": [
+  31.25,
+  32.2
+ ],
+ "rocket_speck": [
+  44.0,
+  46.0
+ ],
+ "parachute_collapse": [
+  55.2,
+  56.2
+ ],
+ "at_window": 55.8,
+ "hop_out": 56.4,
+ "land": 57.0,
+ "take_out_map": 58.3
+}
