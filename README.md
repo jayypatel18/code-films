@@ -9,10 +9,11 @@ No image models, no video models, no stock footage, no samples, no font files. E
 | Film | Made by | Length | Story |
 |---|---|---|---|
 | [THE LAST PAGE](films/the-last-page/) | Opus 5.5 | 60 s | A small fox wakes a forgotten library that holds every story ever written. |
+| [TINY ROCKET](films/tiny-rocket/) | Fable 5.1 | 65 s | A red panda builds a rocket out of paper and scrap and flies it at dawn. |
 
 ## Where this comes from
 
-The idea and the original prompt come from [@chetaslua](https://x.com/chetaslua), who made the first films like this and published his prompt: [film one](https://x.com/chetaslua/status/2117169796290916732) and [THE LAST PAGE](https://x.com/chetaslua/status/2117224839010459987). THE LAST PAGE here runs his prompt again, word for word except for the model name, with a different model. The agents that made it also worked from team briefs (a house style, the fox design, the split into departments) and from a directing session's notes between passes; all of it is in [films/the-last-page/briefs/](films/the-last-page/briefs/), so you can see exactly what was added on top of his prompt. More films made the same way, with new stories in the same prompt format, are on the way.
+The idea and the original prompt come from [@chetaslua](https://x.com/chetaslua), who made the first films like this and published his prompt: [film one](https://x.com/chetaslua/status/2117169796290916732) and [THE LAST PAGE](https://x.com/chetaslua/status/2117224839010459987). THE LAST PAGE here runs his prompt again, word for word except for the model name, with a different model. The agents that made it also worked from team briefs (a house style, the fox design, the split into departments) and from a directing session's notes between passes; all of it is in [films/the-last-page/briefs/](films/the-last-page/briefs/), so you can see exactly what was added on top of his prompt. The other films use new stories written in the same format, with their briefs in their own folders.
 
 ## How a frame is made
 
@@ -26,7 +27,7 @@ The idea and the original prompt come from [@chetaslua](https://x.com/chetaslua)
 ## Repo layout
 
 - `engine/`: the shared drawing engine and stroke painter.
-- `films/<film>/`: one folder per film, with its `PROMPT.md`, its generator code, its sound code and a production log (`NOTES.md`).
+- `films/<film>/`: one folder per film, with its `PROMPT.md`, its generator code, its sound code and a production log (`NOTES.md`). TINY ROCKET is self-contained: its picture and sound code were written from scratch by Fable and do not use `engine/`.
 - `tools/`: the render slot wrapper and the page builder.
 - `docs/`: the GitHub Pages gallery.
 

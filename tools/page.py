@@ -28,6 +28,13 @@ FILMS = {
         "seconds": 60,
         "prompt_by": "@chetaslua",
     },
+    "tiny-rocket": {
+        "title": "TINY ROCKET",
+        "line": "A red panda builds a rocket out of paper and scrap.",
+        "model": "Fable 5.1",
+        "seconds": 65,
+        "prompt_by": None,
+    },
 }
 
 PLAYER = """<!doctype html>
